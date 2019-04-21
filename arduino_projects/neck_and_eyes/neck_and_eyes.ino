@@ -34,8 +34,8 @@
 
 
 
-const char* ssid = "ELDROIDZ";
-const char* password = "pkmj4eva";
+const char* ssid = "";
+const char* password = "";
 
 unsigned int elevationDurationMS = 750;
 unsigned int defaultElevationDurationMS = 750;
